@@ -13,3 +13,4 @@ Thien - Environmental Design, Layout, Audio Visualization
 Than - Lighting  
 James - Gamey Mechanics  
 David - Asset gathering, 3D modeling  
+ ![alt text](https://github.com/1234thien/Moonbase/pics/blob/main/result.png?raw=true)
