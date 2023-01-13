@@ -1,0 +1,4 @@
+Textures/Tileables/T_Soil_01_N.uasset filter=lfs diff=lfs merge=lfs -text
+Textures/Tileables/T_Soil_02_N.uasset filter=lfs diff=lfs merge=lfs -text
+Textures/Tileables/T_Soil_03_N.uasset filter=lfs diff=lfs merge=lfs -text
+Textures/Tileables/T_Detail_01_N.uasset filter=lfs diff=lfs merge=lfs -text
