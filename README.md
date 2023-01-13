@@ -1,6 +1,8 @@
 # MoonBase  
 A moon base level in Unreal Engine  
-This is a reupload  
+This was a team-based project/competition for my graphics class  
+We scored 2nd place out of 6 teams  
+This is a reupload
 ## Features
  - A moon base
  - Voice acting
